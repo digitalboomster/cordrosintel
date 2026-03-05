@@ -31,7 +31,7 @@ export function Sidebar({ onArmChange }: SidebarProps) {
         </div>
         <div className="min-w-0">
           <span className="block truncate text-sm font-semibold tracking-tight text-cordros-text">Cordros</span>
-          <span className="text-[10px] font-medium uppercase tracking-widest text-cordros-gold/90">Intelligence</span>
+          <span className="text-[10px] font-medium uppercase tracking-widest text-cordros-gold/90">Nautilus</span>
         </div>
       </button>
 

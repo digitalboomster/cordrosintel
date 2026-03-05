@@ -20,7 +20,7 @@ Outcome: **One URL, one platform, six business arms, one institutional brain.**
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    CORDROS INTELLIGENCE PLATFORM (Web App)                   │
+│                    CORDROS NAUTILUS (Web App)                                │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │  Shell: SSO • Global search • Notifications • XAI dashboard • Audit viewer   │
 ├──────────┬──────────┬──────────┬──────────┬──────────┬──────────────────────┤

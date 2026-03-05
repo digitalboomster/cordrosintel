@@ -14,7 +14,7 @@ export function WayfindingBar() {
   if (ctx.type === "overview" && !ctx.armId) {
     return (
       <div className="flex items-center gap-2 px-1 py-2 text-xs">
-        <span className="font-medium text-cordros-text">Cordros Intelligence</span>
+        <span className="font-medium text-cordros-text">Cordros Nautilus</span>
         <ChevronRight className="h-3.5 w-3.5 text-cordros-textTertiary" />
         <span className="text-cordros-textTertiary">Overview</span>
       </div>
@@ -24,7 +24,7 @@ export function WayfindingBar() {
   if (ctx.type === "governance") {
     return (
       <div className="flex items-center gap-2 px-1 py-2 text-xs">
-        <span className="font-medium text-cordros-text">Cordros Intelligence</span>
+        <span className="font-medium text-cordros-text">Cordros Nautilus</span>
         <ChevronRight className="h-3.5 w-3.5 text-cordros-textTertiary" />
         <span className="text-cordros-textTertiary">Governance</span>
         <ChevronRight className="h-3.5 w-3.5 text-cordros-textTertiary" />
@@ -36,7 +36,7 @@ export function WayfindingBar() {
   if (ctx.type === "arm" && ctx.armShortName) {
     return (
       <div className="flex items-center gap-2 px-1 py-2 text-xs">
-        <span className="font-medium text-cordros-text">Cordros Intelligence</span>
+        <span className="font-medium text-cordros-text">Cordros Nautilus</span>
         <ChevronRight className="h-3.5 w-3.5 text-cordros-textTertiary" />
         <span className={cn(!ctx.capabilityLabel && "text-cordros-text")}>
           {ctx.armShortName}

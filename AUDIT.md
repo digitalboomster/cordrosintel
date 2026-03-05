@@ -1,4 +1,4 @@
-# Cordros Intelligence Platform — Demo MVP Audit
+# Cordros Nautilus — Demo MVP Audit
 
 ## 1. Capability text (verified)
 

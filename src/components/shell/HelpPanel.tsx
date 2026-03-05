@@ -42,7 +42,7 @@ export function HelpPanel({ open, onClose }: HelpPanelProps) {
           <div>
             <h3 className="font-semibold text-cordros-text mb-2">What is this?</h3>
             <p className="text-cordros-textSecondary leading-relaxed">
-              Cordros Intelligence is one web platform for six business arms: Investment Banking, Investment Management,
+              Cordros Nautilus is one web platform for six business arms: Investment Banking, Investment Management,
               Securities, Research, Private Wealth, and Registrars. Everyone uses the same data, models, and governance.
               You switch areas via the left sidebar.
             </p>

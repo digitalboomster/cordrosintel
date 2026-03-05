@@ -1,4 +1,4 @@
-# Cordros Intelligence Platform (Vue)
+# Cordros Nautilus (Vue)
 
 Vue 3 version of the central web app — one shell, six business-arm workspaces.
 

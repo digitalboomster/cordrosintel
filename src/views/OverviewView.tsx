@@ -11,14 +11,14 @@ export function OverviewView() {
       <section className="mb-12">
         <div className="mb-6 flex items-center gap-3">
           <div className="h-px flex-1 bg-gradient-to-r from-transparent via-cordros-accent/40 to-transparent" aria-hidden />
-          <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-cordros-gold/90">The platform</span>
+          <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-cordros-gold/90">Cordros Nautilus</span>
           <div className="h-px flex-1 bg-gradient-to-r from-transparent via-cordros-accent/40 to-transparent" aria-hidden />
         </div>
         <h1 className="text-display-lg font-semibold tracking-tight text-cordros-text">
           One intelligence. Six arms. One platform.
         </h1>
         <p className="mt-4 text-lg text-cordros-textSecondary">
-          Cordros Intelligence is a single kingdom: one data fabric, one audit trail, one explainability layer.
+          Cordros Nautilus is a single kingdom: one data fabric, one audit trail, one explainability layer.
           Every workspace is a region of the same territory — search, notifications, and governance span the whole.
         </p>
         <p className="mt-4 text-sm text-cordros-textSecondary/90">

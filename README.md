@@ -1,4 +1,4 @@
-# Cordros Intelligence Platform
+# Cordros Nautilus
 
 Central web app for the Cordros AI Transformation — one shell, six business-arm workspaces (Investment Banking, Investment Management, Securities, Research, Private Wealth, Registrars).
 
