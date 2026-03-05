@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+  body {
+    @apply bg-cordros-bg text-cordros-textSecondary font-sans;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.bg-mesh {
+  background-image: radial-gradient(ellipse 80% 60% at 70% 0%, rgba(34,211,238,0.06) 0%, transparent 50%),
+    radial-gradient(ellipse 60% 40% at 20% 100%, rgba(251,191,36,0.04) 0%, transparent 50%);
+}
+
+/* Subtle noise overlay for depth (optional) */
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+}
